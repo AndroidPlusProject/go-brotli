@@ -1,5 +1,3 @@
-module github.com/andybalholm/brotli
+module github.com/AndroidPlusProject/go-brotli
 
-go 1.12
-
-retract v1.0.1 // occasional panics and data corruption
+go 1.21.5
